@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestCase" duration-ms="5075" started-at="2022-06-23T16:55:50 GMT" finished-at="2022-06-23T16:55:56 GMT">
+    <groups>
+    </groups>
+    <test name="Test case1" duration-ms="5075" started-at="2022-06-23T16:55:50 GMT" finished-at="2022-06-23T16:55:56 GMT">
+      <class name="com.optum.executor.TestCase1">
+        <test-method status="PASS" signature="browserStart()[pri:0, instance:com.optum.executor.TestCase1@3d99d22e]" name="browserStart" is-config="true" duration-ms="4874" started-at="2022-06-23T16:55:50 GMT" finished-at="2022-06-23T16:55:55 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserStart -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.optum.executor.TestCase1@3d99d22e]" name="verifyTitle" duration-ms="37" started-at="2022-06-23T16:55:55 GMT" finished-at="2022-06-23T16:55:55 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:com.optum.executor.TestCase1@3d99d22e]" name="browserClose" is-config="true" duration-ms="122" started-at="2022-06-23T16:55:55 GMT" finished-at="2022-06-23T16:55:56 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.optum.executor.TestCase1 -->
+    </test> <!-- Test case1 -->
+  </suite> <!-- TestCase -->
+</testng-results>
